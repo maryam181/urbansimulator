@@ -1,0 +1,11 @@
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\bin\Debug\net48\Urban simulator.rhp
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\bin\Debug\net48\Urban simulator.pdb
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.csproj.AssemblyReference.cache
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban_simulator.Properties.Resources.resources
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.csproj.GenerateResource.cache
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.AssemblyInfoInputs.cache
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.AssemblyInfo.cs
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.csproj.CoreCompileInputs.cache
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.rhp
+C:\Users\Maryam Al-Irhayim\source\repos\Urban simulator\Urban simulator\obj\Debug\net48\Urban simulator.pdb

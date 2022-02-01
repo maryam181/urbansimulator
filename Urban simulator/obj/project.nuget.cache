@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3epcoD77YfuAh6CECxZ8KJ8mYNcVLjMLly0WxR/Z5lvxlOh00sSm29AGjKkwSAwPjHHfWMSzbgKFx8lDj1lXWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maryam Al-Irhayim\\source\\repos\\Urban simulator\\Urban simulator\\Urban simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maryam Al-Irhayim\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
